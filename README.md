@@ -1,4 +1,4 @@
-# pci bus device control
-a design for the pci bus specifically the device control circuit that controls the device will read or write or it is a slave or master
-this code is with verilog , 
-the code is synthesiable on xilinix ISE
+# PCI bus device control
+Design for the PCI bus specifically the device control circuit that controls the device whether it is read or write or it is a slave or master.  
+The code is developed with verilog.  
+The code is synthesiable on xilinix ISE.
